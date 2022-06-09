@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-image: url(img-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+button{
+    margin-top: 50px;
+    margin-left: 600px;
+    width: 140px;
+    height: 40px;
+    border-style: solid;
+    border-color: #48d4b6;
+    color:#48d4b6;
+    background-color: #2d8958;
+    border-radius: 30px;
+}
